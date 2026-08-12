@@ -1,0 +1,6 @@
+{
+  "name": "WakeUp",
+  "description": "A polished, modern Alarm Clock mobile app with smart wake-up features, world clock, timer, and stopwatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
