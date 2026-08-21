@@ -1,7 +1,60 @@
-# wake-up
-alarm clock
-<img width="722" height="1600" alt="WhatsApp Image 2026-08-21 at 1 38 12 PM" src="https://github.com/user-attachments/assets/e57c91c6-9e2d-42a0-859f-14b3740c1c04" />
-<img width="722" height="1600" alt="WhatsApp Image 2026-08-21 at 1 38 12 PM (1)" src="https://github.com/user-attachments/assets/21457c08-09f0-4300-87f8-490aef7030e9" />
-<img width="1080" height="2392" alt="WhatsApp Image 2026-08-21 at 1 38 11 PM" src="https://github.com/user-attachments/assets/d627ddaf-6041-4000-843a-e816b611f0f5" />
-<img width="1080" height="2392" alt="WhatsApp Image 2026-08-21 at 1 38 11 PM (2)" src="https://github.com/user-attachments/assets/503f3506-2078-4eb8-879e-2d324274edda" />
-<img width="722" height="1600" alt="WhatsApp Image 2026-08-21 at 1 38 11 PM (1)" src="https://github.com/user-attachments/assets/850ade25-8a8a-40fc-937d-8e7ec292c829" />
+# ⏰ WakeUp
+
+**WakeX** is a modern and customizable Android alarm clock designed to help users wake up on time and manage their daily schedules.
+
+## ✨ Features
+
+* ⏰ Multiple alarms
+* 📅 Repeat alarms by day
+* 🔔 Custom alarm reminders
+* 🎵 Custom alarm sounds
+* 😴 Snooze functionality
+* 🧠 Math challenge to dismiss
+* 📱 QR challenge to dismiss
+* 🌙 Bedtime reminders
+* ⏱️ Stopwatch & timer
+* 🌍 World clock
+* 📊 Alarm history
+* 🌙 Light & dark mode
+* 📳 Vibration controls
+* ⚡ Fast and reliable alarm scheduling
+
+## 🛠️ Tech Stack
+
+* Kotlin
+* Jetpack Compose
+* Material 3
+* MVVM
+* DataStore
+* AlarmManager
+* WorkManager
+* Kotlin Coroutines
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/YOUR_USERNAME/WakeX.git
+```
+
+Open the project in Android Studio, sync Gradle, and run the app.
+
+## 🔐 Privacy
+
+WakeX does not require an account. User alarm settings are stored locally on the device by default.
+
+## 📌 Status
+
+🚧 **In Development**
+
+## ⭐ Support
+
+If you like WakeUP, give the repository a ⭐ on GitHub.
+
+
+
+
+
+
+
+
+<img width="1440" height="810" alt="IMG_20260821_162146 jpg" src="https://github.com/user-attachments/assets/56768bdf-2767-460a-8b45-a8035c022139" />
